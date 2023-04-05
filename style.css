@@ -12,6 +12,8 @@ a {
     text-decoration: none;
 }
 
+
+
 .header, .footer  {
     background-color: #1f2937;
 }
@@ -19,6 +21,12 @@ a {
 .content-one {
     background-color: #1f2937;
     color: white;
+}
+
+.info > img {
+    width: 200px;
+    border: 4px solid #3882f6;
+    border-radius: 5%;
 }
 
 .content-three {
