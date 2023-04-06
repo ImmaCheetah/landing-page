@@ -33,6 +33,9 @@ a {
     color: white;
 }
 
+.content-one > img {
+    width: 200px;
+}
 .info > img {
     width: 200px;
     border: 4px solid #3882f6;
