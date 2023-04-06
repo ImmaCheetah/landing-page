@@ -31,10 +31,11 @@ a {
 .content-one {
     background-color: #1f2937;
     color: white;
+    display: flex;
 }
 
-.content-one > img {
-    width: 200px;
+.main-img > img {
+    width: 350px;
 }
 .info > img {
     width: 200px;
