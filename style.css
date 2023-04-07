@@ -36,9 +36,9 @@ a {
     gap: 30px;
 }
 
-/* div {
+div {
     border: 2px solid red;
-} */
+}
 
 .content-two {
     text-align: center;
@@ -51,6 +51,33 @@ a {
     gap: 25px;
 }
 
+.content-three {
+    background-color: #e5e7eb;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.quote-container {
+    display: flex;
+    flex-direction: column;
+    max-width: 1200px;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: rgb(41, 41, 44);
+}
+
+.name {
+   color: #1f2937; 
+   font-weight: bold;
+   font-size: 18px;
+   align-self: flex-end;
+}
+
 .main-img > img {
     width: 350px;
 }
@@ -60,6 +87,3 @@ a {
     border-radius: 8%;
 }
 
-.content-three {
-    background-color: #e5e7eb;
-}
