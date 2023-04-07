@@ -32,6 +32,8 @@ a {
     background-color: #1f2937;
     color: white;
     display: flex;
+    justify-content: center;
+    gap: 30px;
 }
 
 .main-img > img {
