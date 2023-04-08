@@ -33,12 +33,12 @@ a {
     color: white;
     display: flex;
     justify-content: center;
-    gap: 30px;
+    gap: 250px;
 }
 
-/* div {
+div {
     border: 1px solid red;
-} */
+}
 
 .content-two {
     text-align: center;
@@ -129,7 +129,8 @@ a {
 }
 
 .main-img > img {
-    width: 350px;
+    width: 500px;
+    padding-bottom: 20px;
 }
 .info > img {
     width: 150px;
