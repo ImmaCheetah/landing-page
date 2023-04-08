@@ -98,7 +98,7 @@ div {
 
 .action-container {
     color: white;
-    margin-left: 30px;  
+    margin-left: 100px;  
 }
 
 .action-container > .text {
@@ -107,7 +107,17 @@ div {
 }
 
 .content4-button {
-    margin-right: 30px;
+    margin-right: 100px;
+}
+
+.content4-button > button {
+    color: white;
+    background-color: #3882f6;
+    border: 2px solid white;
+    font-size: 22px;
+    border-radius: 10px;
+    padding: 5px 10px 5px 10px;
+    font-weight: bold;
 }
 
 .main-img > img {
