@@ -87,8 +87,10 @@ div {
 
 .content4-container {
     background-color: #3882f6;
-    padding: 60px 200px 60px 200px;
-    
+    width: 1200px;
+    height: 100px;
+    max-width: 1200px;
+    border-radius: 15px;
 }
 
 .main-img > img {
