@@ -37,7 +37,7 @@ a {
 }
 
 div {
-    border: 2px solid red;
+    border: 1px solid red;
 }
 
 .content-two {
@@ -76,6 +76,19 @@ div {
    font-weight: bold;
    font-size: 18px;
    align-self: flex-end;
+}
+
+.content-four {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-basis: 300px;
+}
+
+.content4-container {
+    background-color: #3882f6;
+    padding: 60px 200px 60px 200px;
+    
 }
 
 .main-img > img {
