@@ -86,11 +86,19 @@ div {
 }
 
 .content4-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     background-color: #3882f6;
     width: 1200px;
     height: 100px;
     max-width: 1200px;
     border-radius: 15px;
+}
+
+.action-container {
+    color: white;
+
 }
 
 .main-img > img {
